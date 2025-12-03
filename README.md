@@ -25,3 +25,5 @@ https://stayfocused-todo.netlify.app/
 - JavaScript  
 - CSS  
 
+## About
+This project helped me practice React and improve how I build and structure frontend apps.
